@@ -1,0 +1,6 @@
+{
+  "name": "@wvm/&pack",
+  "version": "0.0.0-r",
+  "license": "MIT",
+  "exports": "./src/indexa.ts"
+}
