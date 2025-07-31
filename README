@@ -11,7 +11,7 @@
 
 ### Usage
 
-Add this package in your project:
+Add this package to your project:
 
 ```bash
 deno add jsr:@wvm/&pack
