@@ -2,7 +2,7 @@
   "name": "@wvm/&pack",
   "version": "0.0.0-r",
   "publish": {
-    "exclude": ["assets"]
+    "exclude": [".github", "assets"]
   },
   "exports": "./src/index.ts"
 }
